@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @sayalishinkar
+- 👀 I’m interested in learning new technologies.
+- 🌱 I’m currently learning Computer Engineering.
+- 💞️ I’m looking to collaborate on project related to python.
+- 📫 How to reach me https://www.linkedin.com/in/sayali-shinkar-62b0b6190/
+- 💼 Visit Portfolio https://sayalishinkar.github.io/
